@@ -9,6 +9,6 @@ package com.tao.test;
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("测试通过，上传到test 合并到master...");
+        System.out.println("测试通过，上传到test 合并到master....");
     }
 }
